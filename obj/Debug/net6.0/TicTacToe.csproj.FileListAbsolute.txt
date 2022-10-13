@@ -1,0 +1,15 @@
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll

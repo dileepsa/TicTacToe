@@ -1,0 +1,2 @@
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/bin/Release/net6.0/win-x64/publish/TicTacToe.pdb
+/Users/sai_s_weapon/projects/csharp/TicTacToe/TicTacToe/bin/Release/net6.0/win-x64/publish/TicTacToe.exe
